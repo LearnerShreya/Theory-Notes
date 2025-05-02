@@ -29,3 +29,9 @@
 * Digital Electronics
 * Development of Societies
 
+>## 2nd Semester
+* Maths-II
+* Physics
+* Basic Electrical Engineering
+* Engineering Graphics & Design
+* Mentoring and Professional Development
