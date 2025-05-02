@@ -35,3 +35,11 @@
 * Basic Electrical Engineering
 * Engineering Graphics & Design
 * Mentoring and Professional Development
+
+>## 1st Semester
+* Programming for Problem Solving
+* Maths-I
+* English
+* Chemistry-I
+* Manufacturing Practices
+* Mentoring and Professional Development
