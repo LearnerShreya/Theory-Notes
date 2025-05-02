@@ -14,3 +14,10 @@
 * Formal Language & Automata Theory
 * Constitution of India 
 
+>## 4th Semester
+* Design & Analysis of Algorithms
+* Operating Systems
+* Discrete Mathematics
+* Computer Organization & Architecture
+* Universal Human Values
+* Environmental Sciences
