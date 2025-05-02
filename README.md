@@ -21,3 +21,11 @@
 * Computer Organization & Architecture
 * Universal Human Values
 * Environmental Sciences
+
+>## 3rd Semester
+* Data Structure & Algorithms
+* Object Oriented Programming
+* Mathematics-III
+* Digital Electronics
+* Development of Societies
+
