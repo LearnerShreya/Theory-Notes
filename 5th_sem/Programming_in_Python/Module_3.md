@@ -25,14 +25,6 @@
 * Python Packages
 
 ---
-
-
-
-Good.
-I’ll continue in the **same structured, deep, academic style** and split **Module 3** into clear takes.
-
-Below is **MODULE 3 – TAKE 1**, covering **Python Functions** completely (theory + syntax + examples + exam points).
-
 ---
 
 # **MODULE 3: FUNCTIONS AND MODULES**
