@@ -6,11 +6,11 @@
 - Wireless-Communication
 
 >## 5th Semester
-* Programming in Python
-* Statistical Computing Techniques using R
-* Machine Learning
-* Artificial Intelligence
-* Database Management Systems
+* Programming in Python **`+ LAB`**
+* Statistical Computing Techniques using R **`+ LAB`**
+* Machine Learning **`+ LAB`**
+* Artificial Intelligence **`+ LAB`**
+* Database Management Systems **`+ LAB`**
 * Formal Language & Automata Theory
 * Constitution of India 
 
