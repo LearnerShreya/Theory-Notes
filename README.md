@@ -2,7 +2,7 @@
 * Computer Vision **`+ LAB`**
 * Project II
 * Routing and Switching
-*
+* Computer Networks
 
 
 >## 6th Semester
