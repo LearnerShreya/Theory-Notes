@@ -3,6 +3,7 @@
 * Project II
 * Routing and Switching
 * Computer Networks
+* Compiler Design
 
 
 >## 6th Semester
