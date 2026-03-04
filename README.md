@@ -4,7 +4,7 @@
 * Routing and Switching
 * Computer Networks
 * Compiler Design
-* Business Intelligence
+* Business Intelligence **`+ LAB`**
 
 
 >## 6th Semester
