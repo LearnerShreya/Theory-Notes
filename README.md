@@ -9,7 +9,6 @@
 * Compiler Design
 * Business Intelligence **`+ LAB`**
 
-
 >## 6th Semester
 - Big Data Analytics **`+ LAB`**
 - Data Analytics using R **`+ LAB`**
