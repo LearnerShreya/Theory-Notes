@@ -2,12 +2,17 @@
 * Project III
 
 >## 7th Semester
-* Computer Vision **`+ LAB`**
-* Project II
-* Routing and Switching
-* Computer Networks
-* Compiler Design
-* Business Intelligence **`+ LAB`**
+| Semester | Sub.Code      | MCode | Subject                   | E.Type  |
+| -------- | ------------- | ----- | ------------------------- | ------- |
+| 7        | BTAIML 701-20 | 94006 | Computer Vision           | Regular |
+| 7        | BTAIML-702-20 | 94001 | Computer Vision Lab       | Regular |
+| 7        | BTCS 504-18   | 93919 | Computer Networks         | Regular |
+| 7        | BTCS 601-18   | 93988 | Compiler Design           | Regular |
+| 7        | BTCS 703-18   | 93990 | Project-II                | Regular |
+| 7        | BTDS 705-20   | 94023 | Business Intelligence     | Regular |
+| 7        | BTDS 706-20   | 94024 | Business Intelligence Lab | Regular |
+| 7        | BTEC-905A-18  | 90691 | Routing and Switching     | Regular |
+	
 
 >## 6th Semester
 - Big Data Analytics **`+ LAB`**
