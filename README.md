@@ -15,12 +15,19 @@
 	
 
 >## 6th Semester
-- Big Data Analytics **`+ LAB`**
-- Data Analytics using R **`+ LAB`**
-- Data Mining & Data Warehouse **`+ LAB`**
-- Deep Learning **`+ LAB`**
-- Wireless Communication
-- Project-1 
+| Semester | Sub.Code      | MCode | Subject                            | E.Type  |
+| -------- | ------------- | ----- | ---------------------------------- | ------- |
+| 6        | BTCS 603-18   | 93955 | Project-I                          | Regular |
+| 6        | BTCS 702-18   | 93953 | Data Mining and Data Warehouse     | Regular |
+| 6        | BTCS 704-18   | 93966 | Deep Learning                      | Regular |
+| 6        | BTCS 705-18   | 93967 | Deep Learning Lab                  | Regular |
+| 6        | BTDS 601-20   | 93956 | Data Mining and Data Warehouse Lab | Regular |
+| 6        | BTDS 602-20   | 93957 | Data Analytics using R Lab         | Regular |
+| 6        | BTDS 603-20   | 93960 | Big Data Analytics                 | Regular |
+| 6        | BTDS 604-20   | 93961 | Big Data Analytics Lab             | Regular |
+| 6        | BTEC-601-18   | 79373 | Wireless Communication             | Regular |
+| 6        | BTITCS 601-20 | 93954 | Data Analytics using R             | Regular |
+
 
 >## 5th Semester
 * Machine Learning **`+ LAB`**
