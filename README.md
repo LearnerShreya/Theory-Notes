@@ -39,6 +39,7 @@
 * Constitution of India/ Essence of Indian Traditional Knowledge
 * Industrial Training 
 
+
 >## 4th Semester
 * Discrete Mathematics
 * Operating Systems **`+ LAB`**
