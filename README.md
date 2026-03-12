@@ -49,12 +49,17 @@
 
 
 >## 4th Semester
-* Discrete Mathematics
-* Operating Systems **`+ LAB`**
-* Design & Analysis of Algorithms **`+ LAB`**
-* Computer Organization & Architecture **`+ LAB`**
-* Universal Human Values
-* Environmental Sciences
+| Semester | Sub.Code    | MCode | Subject                                  | E.Type  |
+| -------- | ----------- | ----- | ---------------------------------------- | ------- |
+| 4        | BTCS-401-18 | 77626 | Discrete Mathematics                     | Regular |
+| 4        | BTCS-402-18 | 77628 | Operating Systems                        | Regular |
+| 4        | BTCS-403-18 | 77629 | Design & Analysis of Algorithms          | Regular |
+| 4        | BTCS-404-18 | 77633 | Operating Systems Lab                    | Regular |
+| 4        | BTCS-405-18 | 77634 | Design & Analysis of Algorithms Lab      | Regular |
+| 4        | BTES-401-18 | 77627 | Computer Organization & Architecture     | Regular |
+| 4        | BTES-402-18 | 77632 | Computer Organization & Architecture Lab | Regular |
+| 4        | EVS 101-18  | 90080 | Environmental Sciences                   | Regular |
+| 4        | HSMC-122-18 | 77630 | Universal Human Values                   | Regular |
 
 >## 3rd Semester
 * Mathematics-III
