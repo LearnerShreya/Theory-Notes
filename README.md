@@ -62,13 +62,18 @@
 | 4        | HSMC-122-18 | 77630 | Universal Human Values                   | Regular |
 
 >## 3rd Semester
-* Mathematics-III
-* IT Workshop **`/ LAB`**
-* Data Structure & Algorithms **`+ LAB`**
-* Object Oriented Programming **`+ LAB`**
-* Digital Electronics **`+ LAB`**
-* Development of Societies
-* Summer Institutional Training
+| Semester | Sub.Code   | MCode | Subject                         | E.Type  |
+| -------- | ---------- | ----- | ------------------------------- | ------- |
+| 3        | —          | 77083 | Summer Institutional Training   | Regular |
+| 3        | BTAM304-18 | 76438 | Mathematics III                 | Regular |
+| 3        | BTCS301-18 | 76436 | Data Structure & Algorithms     | Regular |
+| 3        | BTCS302-18 | 76437 | Object Oriented Programming     | Regular |
+| 3        | BTCS303-18 | 76441 | Data Structure & Algorithms Lab | Regular |
+| 3        | BTCS304-18 | 76442 | Object Oriented Programming Lab | Regular |
+| 3        | BTCS305-18 | 76443 | IT Workshop                     | Regular |
+| 3        | BTES301-18 | 76435 | Digital Electronics             | Regular |
+| 3        | BTES302-18 | 76440 | Digital Electronics Lab         | Regular |
+| 3        | HSMC101-18 | 76439 | Development of Societies        | Regular |
 
 >## 2nd Semester
 * Mathematics-II
