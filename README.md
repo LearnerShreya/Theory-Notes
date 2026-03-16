@@ -76,11 +76,16 @@
 | 3        | HSMC101-18 | 76439 | Development of Societies        | Regular |
 
 >## 2nd Semester
-* Mathematics-II
-* Physics **`+ LAB`**
-* Engineering Graphics & Design
-* Basic Electrical Engineering **`+ LAB`**
-* Mentoring and Professional Development
+| Semester | Sub.Code    | MCode | Subject                                | E.Type  |
+| -------- | ----------- | ----- | -------------------------------------- | ------- |
+| 2        | BMPD-201-18 | 76324 | Mentoring and Professional Development | Regular |
+| 2        | BTAM204-18  | 91960 | Mathematics II                         | Regular |
+| 2        | BTEE-101-18 | 75339 | Basic Electrical Engineering           | Regular |
+| 2        | BTEE-102-18 | 75340 | Basic Electrical Engineering Lab       | Regular |
+| 2        | BTME101-21  | 91335 | Engineering Graphics & Design          | Regular |
+| 2        | BTPH-104-18 | 75360 | Semi-Conductor Physics                 | Regular |
+| 2        | BTPH-114-18 | 75361 | Semi-Conductor Physics Lab             | Regular |
+
 
 >## 1st Semester
 * Mathematics-I
