@@ -32,21 +32,21 @@ Here is your table after removing the **E.Type (Regular)** column:
 
 
 >## 5th Semester
-| Semester | Sub.Code      | MCode | Subject                                                         | E.Type  |
-| -------- | ------------- | ----- | --------------------------------------------------------------- | ------- |
-| 5        | —             | 93946 | Industrial Training                                             | Regular |
-| 5        | BTAIML 503-20 | 93944 | Programming in Python Lab                                       | Regular |
-| 5        | BTAIML 504-20 | 93945 | Artificial Intelligence Lab                                     | Regular |
-| 5        | BTAIML 501-20 | 93939 | Programming in Python                                           | Regular |
-| 5        | BTAIML 502-20 | 93940 | Artificial Intelligence                                         | Regular |
-| 5        | BTCS 501-18   | 93937 | Database Management System                                      | Regular |
-| 5        | BTCS 502-18   | 93938 | Formal Language & Automata Theory                               | Regular |
-| 5        | BTCS 505-18   | 93943 | Database Management System Lab                                  | Regular |
-| 5        | BTCS 618-18   | 93947 | Machine Learning                                                | Regular |
-| 5        | BTCS 619-18   | 93948 | Machine Learning Lab                                            | Regular |
-| 5        | BTES 501-20   | 93936 | Statistical Computing Techniques using R                        | Regular |
-| 5        | BTES 502-20   | 93942 | Statistical Computing Techniques using R Lab                    | Regular |
-| 5        | MC            | 93941 | Constitution of India / Essence of Indian Traditional Knowledge | Regular |
+| Semester | Sub.Code      | MCode | Subject                                                         |
+| -------- | ------------- | ----- | --------------------------------------------------------------- |
+| 5        | —             | 93946 | Industrial Training                                             |
+| 5        | BTAIML 503-20 | 93944 | Programming in Python Lab                                       |
+| 5        | BTAIML 504-20 | 93945 | Artificial Intelligence Lab                                     |
+| 5        | BTAIML 501-20 | 93939 | Programming in Python                                           |
+| 5        | BTAIML 502-20 | 93940 | Artificial Intelligence                                         |
+| 5        | BTCS 501-18   | 93937 | Database Management System                                      |
+| 5        | BTCS 502-18   | 93938 | Formal Language & Automata Theory                               |
+| 5        | BTCS 505-18   | 93943 | Database Management System Lab                                  |
+| 5        | BTCS 618-18   | 93947 | Machine Learning                                                |
+| 5        | BTCS 619-18   | 93948 | Machine Learning Lab                                            |
+| 5        | BTES 501-20   | 93936 | Statistical Computing Techniques using R                        |
+| 5        | BTES 502-20   | 93942 | Statistical Computing Techniques using R Lab                    |
+| 5        | MC            | 93941 | Constitution of India / Essence of Indian Traditional Knowledge |
 
 
 
