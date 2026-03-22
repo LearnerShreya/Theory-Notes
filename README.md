@@ -62,19 +62,23 @@ Here is your table after removing the **E.Type (Regular)** column:
 | 4        | EVS 101-18  | 90080 | Environmental Sciences                   |
 | 4        | HSMC-122-18 | 77630 | Universal Human Values                   |
 
->## 3rd Semester
-| Semester | Sub.Code   | MCode | Subject                         | E.Type  |
-| -------- | ---------- | ----- | ------------------------------- | ------- |
-| 3        | —          | 77083 | Summer Institutional Training   | Regular |
-| 3        | BTAM304-18 | 76438 | Mathematics III                 | Regular |
-| 3        | BTCS301-18 | 76436 | Data Structure & Algorithms     | Regular |
-| 3        | BTCS302-18 | 76437 | Object Oriented Programming     | Regular |
-| 3        | BTCS303-18 | 76441 | Data Structure & Algorithms Lab | Regular |
-| 3        | BTCS304-18 | 76442 | Object Oriented Programming Lab | Regular |
-| 3        | BTCS305-18 | 76443 | IT Workshop                     | Regular |
-| 3        | BTES301-18 | 76435 | Digital Electronics             | Regular |
-| 3        | BTES302-18 | 76440 | Digital Electronics Lab         | Regular |
-| 3        | HSMC101-18 | 76439 | Development of Societies        | Regular |
+
+> ## 3rd Semester
+
+| Semester | Sub.Code   | MCode | Subject                         |
+| -------- | ---------- | ----- | ------------------------------- |
+| 3        | —          | 77083 | Summer Institutional Training   |
+| 3        | BTAM304-18 | 76438 | Mathematics III                 |
+| 3        | BTCS301-18 | 76436 | Data Structure & Algorithms     |
+| 3        | BTCS302-18 | 76437 | Object Oriented Programming     |
+| 3        | BTCS303-18 | 76441 | Data Structure & Algorithms Lab |
+| 3        | BTCS304-18 | 76442 | Object Oriented Programming Lab |
+| 3        | BTCS305-18 | 76443 | IT Workshop                     |
+| 3        | BTES301-18 | 76435 | Digital Electronics             |
+| 3        | BTES302-18 | 76440 | Digital Electronics Lab         |
+| 3        | HSMC101-18 | 76439 | Development of Societies        |
+
+
 
 >## 2nd Semester
 | Semester | Sub.Code    | MCode | Subject                                | E.Type  |
