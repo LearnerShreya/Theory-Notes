@@ -81,15 +81,15 @@ Here is your table after removing the **E.Type (Regular)** column:
 
 
 >## 2nd Semester
-| Semester | Sub.Code    | MCode | Subject                                | E.Type  |
-| -------- | ----------- | ----- | -------------------------------------- | ------- |
-| 2        | BMPD-201-18 | 76324 | Mentoring and Professional Development | Regular |
-| 2        | BTAM204-18  | 91960 | Mathematics II                         | Regular |
-| 2        | BTEE-101-18 | 75339 | Basic Electrical Engineering           | Regular |
-| 2        | BTEE-102-18 | 75340 | Basic Electrical Engineering Lab       | Regular |
-| 2        | BTME101-21  | 91335 | Engineering Graphics & Design          | Regular |
-| 2        | BTPH-104-18 | 75360 | Semi-Conductor Physics                 | Regular |
-| 2        | BTPH-114-18 | 75361 | Semi-Conductor Physics Lab             | Regular |
+| Semester | Sub.Code    | MCode | Subject                                |
+| -------- | ----------- | ----- | -------------------------------------- |
+| 2        | BMPD-201-18 | 76324 | Mentoring and Professional Development |
+| 2        | BTAM204-18  | 91960 | Mathematics II                         |
+| 2        | BTEE-101-18 | 75339 | Basic Electrical Engineering           |
+| 2        | BTEE-102-18 | 75340 | Basic Electrical Engineering Lab       |
+| 2        | BTME101-21  | 91335 | Engineering Graphics & Design          |
+| 2        | BTPH-104-18 | 75360 | Semi-Conductor Physics                 |
+| 2        | BTPH-114-18 | 75361 | Semi-Conductor Physics Lab             |
 
 
 >## 1st Semester
