@@ -93,14 +93,14 @@ Here is your table after removing the **E.Type (Regular)** column:
 
 
 >## 1st Semester
-| Semester | Sub.Code    | MCode | Subject                                | E.Type  |
-| -------- | ----------- | ----- | -------------------------------------- | ------- |
-| 1        | BMPD-101-18 | 75342 | Mentoring and Professional Development | Regular |
-| 1        | BTAM-104-18 | 75362 | Mathematics I                          | Regular |
-| 1        | BTCH-101-18 | 75343 | Chemistry I                            | Regular |
-| 1        | BTCH-102-18 | 75344 | Chemistry I Lab                        | Regular |
-| 1        | BTHU-101-18 | 75349 | English                                | Regular |
-| 1        | BTHU-102-18 | 75350 | English Lab                            | Regular |
-| 1        | BTMP-101-18 | 75348 | Workshop / Manufacturing Practices     | Regular |
-| 1        | BTPS-101-18 | 75346 | Programming for Problem Solving        | Regular |
-| 1        | BTPS-102-18 | 75347 | Programming for Problem Solving Lab    | Regular |
+| Semester | Sub.Code    | MCode | Subject                                |
+| -------- | ----------- | ----- | -------------------------------------- |
+| 1        | BMPD-101-18 | 75342 | Mentoring and Professional Development |
+| 1        | BTAM-104-18 | 75362 | Mathematics I                          |
+| 1        | BTCH-101-18 | 75343 | Chemistry I                            |
+| 1        | BTCH-102-18 | 75344 | Chemistry I Lab                        |
+| 1        | BTHU-101-18 | 75349 | English                                |
+| 1        | BTHU-102-18 | 75350 | English Lab                            |
+| 1        | BTMP-101-18 | 75348 | Workshop / Manufacturing Practices     |
+| 1        | BTPS-101-18 | 75346 | Programming for Problem Solving        |
+| 1        | BTPS-102-18 | 75347 | Programming for Problem Solving Lab    |
